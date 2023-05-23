@@ -1,0 +1,6 @@
+C:\Users\Валера\source\repos\LR2_TPOAS\LR2_TPOAS\bin\Debug\LR2_TPOAS.dll
+C:\Users\Валера\source\repos\LR2_TPOAS\LR2_TPOAS\bin\Debug\LR2_TPOAS.pdb
+C:\Users\Валера\source\repos\LR2_TPOAS\LR2_TPOAS\obj\Debug\LR2_TPOAS.csprojAssemblyReference.cache
+C:\Users\Валера\source\repos\LR2_TPOAS\LR2_TPOAS\obj\Debug\LR2_TPOAS.csproj.CoreCompileInputs.cache
+C:\Users\Валера\source\repos\LR2_TPOAS\LR2_TPOAS\obj\Debug\LR2_TPOAS.dll
+C:\Users\Валера\source\repos\LR2_TPOAS\LR2_TPOAS\obj\Debug\LR2_TPOAS.pdb
